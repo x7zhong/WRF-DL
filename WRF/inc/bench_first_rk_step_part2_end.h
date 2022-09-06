@@ -1,0 +1,13 @@
+FIRST_PART2_END
+BENCH_REPORT(first_rk_step_part2_tim)
+BENCH_REPORT(comp_diff_metrics_tim)
+BENCH_REPORT(tke_diff_bc_tim)
+BENCH_REPORT(deform_div_tim)
+BENCH_REPORT(calc_tke_tim)
+BENCH_REPORT(phy_bc_tim)
+BENCH_REPORT(update_phy_ten_tim)
+BENCH_REPORT(tke_rhs_tim)
+BENCH_REPORT(vert_diff_tim)
+BENCH_REPORT(hor_diff_tim)
+BENCH_REPORT(cal_phy_tend)	
+BENCH_REPORT(helicity_tim)	

@@ -1,0 +1,7 @@
+*.so
+*.pt
+*.o
+*.mod
+__pycache__
+*.h
+*.c

@@ -1,0 +1,12 @@
+BENCH_INIT(comp_diff_metrics_tim)
+BENCH_INIT(tke_diff_bc_tim)
+BENCH_INIT(deform_div_tim)
+BENCH_INIT(calc_tke_tim)
+BENCH_INIT(phy_bc_tim)
+BENCH_INIT(update_phy_ten_tim)
+BENCH_INIT(tke_rhs_tim)
+BENCH_INIT(vert_diff_tim)
+BENCH_INIT(hor_diff_tim)
+BENCH_INIT(cal_phy_tend)
+BENCH_INIT(helicity_tim)
+FIRST_PART2_START
