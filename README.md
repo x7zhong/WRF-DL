@@ -18,6 +18,9 @@ ML-based radiation emulators are saved.
 Contains the files that are different from the original WRF v4.3 files and used for implementing the WRF-ML coupler.
 To run the WRF coupled with ML-based radiation schemes, you need to add files that did not exist or overwrite the existing WRF files.
 
+## example
+Contains the examples about how to call Python script from Fortran code.
+
 # Instructions
  
 ## Setting environment variables 
