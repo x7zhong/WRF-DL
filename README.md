@@ -1,5 +1,7 @@
 This github is the code implementation corresponding to the article "WRF-ML v1.0: A Bridge between WRF v4.3 and Machine Learning Parameterizations and its Application to Atmospheric Radiative Transferr"
 
+Please contact x7zhong@gmail.com if you have any questions about this code.
+
 # Code description:
 
 ## Build_WRF
